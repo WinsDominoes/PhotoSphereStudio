@@ -127,10 +127,11 @@ git clone https://github.com/moom0o/PhotoSphereStudio.git
 ```bash
 npm install
 ```
+3. Rename `config.example.json` to `config.json`
 
-3. Update the `config.json` file in the root directory of the project and fill it with the required information (clientId, clientSecret, etc.)
+4. Update the `config.json` file in the root directory of the project and fill it with the required information (clientId, clientSecret, etc.)
 
-4. Start the server
+5. Start the server
 
 ```bash
 node index.js
@@ -139,4 +140,4 @@ node index.js
 ## Support
 
 If you have any questions about how to set this up or about the source code, feel free to ask either **moom0o** (
-moo#0529 on Discord) or **WinsDominoes** (Win#7206 on Discord).
+m.o.o.m.o.o on Discord) or **WinsDominoes** (winsdominoes on Discord).
