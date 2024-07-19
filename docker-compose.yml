@@ -5,7 +5,7 @@ services:
         container_name: photospherestudio
         hostname: photospherestudio
         ports:
-            - '3000:3000'
+            - '7000:7000'
         volumes:
             - ./config.json:/home/node/app/config.json
         restart: 'on-failure'
