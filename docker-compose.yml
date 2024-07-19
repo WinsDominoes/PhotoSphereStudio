@@ -1,0 +1,11 @@
+version: '3'
+services:
+    photospherestudio:
+        build: .
+        container_name: photospherestudio
+        hostname: photospherestudio
+        ports:
+            - '3000:3000'
+        volumes:
+            - ./config.json:/home/node/app/config.json
+        restart: 'on-failure'
