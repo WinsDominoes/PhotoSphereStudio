@@ -137,6 +137,10 @@ npm install
 node index.js
 ```
 
+## To Do
+- Fetch location metadata from image
+- Location specifier
+
 ## Support
 
 If you have any questions about how to set this up or about the source code, feel free to ask either **moom0o** (
