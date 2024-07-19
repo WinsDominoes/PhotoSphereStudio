@@ -15,7 +15,7 @@ If you want to try it out, there are publicly available instances:
 | **URL** | **Country** | **Status** | **Hosted By** |
 |------------------------------------------------|-------------|------------|---------------|
 | [maps.moomoo.me](https://maps.moomoo.me) | 🇬🇧 | Up | @moom0o |
-| [map.winscloud.net](https://map.winscloud.net) | 🇹🇭 | Down | @WinsDominoes |
+| [map.winscloud.net](https://map.winscloud.net) | 🇹🇭 | Up | @WinsDominoes |
 
 ## Quick start
 
